@@ -1,5 +1,5 @@
 <h1 align='center'>
-  🍣 hi there, i'm yuhki.
+  🦇 hi there, i'm yuhki.
 </h1>
 
 <p align='center'>
@@ -17,7 +17,7 @@
 </p>
 
 <p align='center'>
-<img src="https://media.discordapp.net/attachments/536501170353602627/889543126019096626/salmon.gif"/>
+<img src="https://cdn.discordapp.com/attachments/536501170353602627/895397482471784468/170.gif"/>
 </p>
 
 <hr>
